@@ -34,7 +34,7 @@ class Calculate{
       case '-':
         answer = p - c;
         break;
-      case '*':
+      case '×':
         answer = p * c;
         break;
       case '÷':
